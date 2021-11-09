@@ -1,0 +1,10 @@
+.idea/
+.ammonite/
+target/
+.bsp
+.vscode/
+
+# metals
+.metals
+.bloop
+project/**/metals.sbt
